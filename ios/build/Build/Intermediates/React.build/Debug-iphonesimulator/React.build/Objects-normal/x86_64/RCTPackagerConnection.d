@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/Base/RCTWebSocketObserverProtocol.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h

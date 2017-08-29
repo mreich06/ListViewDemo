@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Elements/RNSVGGroup.m \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Elements/RNSVGGroup.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/RNSVGContainer.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGCGFCRule.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Elements/RNSVGSvgView.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Brushes/RNSVGPainter.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RCTConvert+RNSVG.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGCGFloatArray.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGVBMOS.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGTextAnchor.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGUnits.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGPathParser.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Brushes/RNSVGBrushType.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Elements/RNSVGPath.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/RNSVGRenderable.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Brushes/RNSVGBrush.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/Utils/RNSVGPercentageConverter.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/node_modules/react-native-svg/ios/RNSVGNode.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/mayareich/Desktop/react/ListViewDemo/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h
